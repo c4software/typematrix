@@ -13,6 +13,7 @@ All ressources to replace the original Typematrix 2030 controller by the Teensy+
 
 ## WIP
 
-- Replacement PCB.
+- Breadbord test.
 - Teensy Pineout.
 - QMK Firmware.
+- Make the layout of the replacement PCB.
