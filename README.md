@@ -1,6 +1,6 @@
 # Typematrix 2030
 
-All ressources to replace the original Typematrix 2030 controller by the Teensy 2.0++
+All ressources to replace the original Typematrix 2030 controller by the Teensy++ 2.0
 
 ## Layout
 
