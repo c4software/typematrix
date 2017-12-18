@@ -3,10 +3,11 @@
 All ressources to replace the original Typematrix 2030 controller by the Teensy 2.0++
 
 ![Layout](keyboard-layout.png)
-[Download the Layout for Keyboard Layout Editor](keyboard-layout.json)
 
-[WIP] :
+- [The Layout for Keyboard Layout Editor](keyboard-layout.json)
+- [Inside view](./inside/)
 
-- PCB.
+## WIP
+- Replacement PCB.
 - Teensy Pineout.
 - QMK Firmware.
